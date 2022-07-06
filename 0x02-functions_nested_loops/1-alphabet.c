@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 
 /**
 *Print alphabet ib lower case
